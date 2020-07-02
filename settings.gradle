@@ -1,0 +1,3 @@
+rootProject.name='MenuItem'
+include ':app'
+include ':menuitemlib'
